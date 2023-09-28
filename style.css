@@ -86,6 +86,7 @@ hr {
   border: 1px solid black;
 }
 
+/* Navigation alignment */
 .navigation {
   padding: 30px;
   text-align: center;
@@ -95,18 +96,21 @@ section {
   text-align: center; 
 }
 
+/* styling for Hi! I'm Pete Thinkful */
 .intro {
   margin-left: 250px;
   flex: 1;
   padding-top: 20px;
 }
 
+/* Pete's history as an artist */
 .background {
   text-align: center;
   margin-left: 200px;
   margin-right: 200px;
 }
 
+/* Pete's list of interests */
 .list {
   display: inline-block;
   text-align: left;
